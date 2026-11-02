@@ -1,0 +1,1 @@
+genre:[folk]; gender:[female]; instrument:[acoustic guitar,drums]; mood:[serene]; singer_timbre:[soft]

@@ -1,0 +1,1 @@
+genre:[pop]; gender:[male]; instrument:[electric guitar,keyboard]; singer_timbre:[husky]; topic:[love]

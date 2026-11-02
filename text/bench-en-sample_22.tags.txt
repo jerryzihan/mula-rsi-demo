@@ -1,0 +1,1 @@
+genre:[folk]; gender:[female]; instrument:[bass,piano]; singer_timbre:[soothing]; topic:[love]

@@ -1,0 +1,1 @@
+genre:[pop]; gender:[male]; instrument:[drums,keyboard]; mood:[energetic]; topic:[love]

@@ -1,0 +1,1 @@
+genre:[folk]; gender:[male]; instrument:[piano]; singer_timbre:[husky]; topic:[love]
